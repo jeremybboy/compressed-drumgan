@@ -1,6 +1,15 @@
 # Visualization and Listening
 
-### Audio of sample n°5
+### Audio Generated
+
+## Student Generator without feature Distillation 
+
+## Student Generator with feature Distillation 
+
+## Student Generator with feature Distillation and Classifier
+
+## Student Generator with feature Distillation, Classifier and Limiter number of Data in the training 
+
 
 <audio controls>
   <source src="samples/sample_source_5.mp3" type="audio/mp3">
@@ -30,14 +39,13 @@ Your browser does not support the audio element.
 
 #### With a pre-trained DDSP model, we are able to reconstruct a wav file from the loudness and the pitch
 
-### Audio of sample n°5
-
+### Audio from Teacher
 <audio controls>
   <source src="samples/sample_source_5.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
-### Reconstructed audio of sample n°5
+### Audio from Student
 
 <audio controls>
   <source src="samples/Audio_Recon.mp3" type="audio/mp3">
@@ -45,9 +53,8 @@ Your browser does not support the audio element.
 </audio>
 
 
-## Interpolation
 
-### Generation of 6 samples 
+### Generation of 4 samples
 
 
 <audio controls>
