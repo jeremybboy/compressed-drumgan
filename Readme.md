@@ -1,18 +1,21 @@
 # Visualization and Listening
 
-### Audio Generated
+### Model 1 : Only MSE Generation teacher, Generation student 
 
-## Student Generator without feature Distillation 
 
-## Student Generator with feature Distillation 
+## Model 2 : Add feature loss
 
-## Student Generator with feature Distillation and Classifier
+## Model 3: Feature Loss + Classif Loss
 
-## Student Generator with feature Distillation, Classifier and Limiter number of Data in the training 
+### A. Feature Loss + Classif Loss with Fake Data
+
+### B. Feature Loss + Classif Loss with  Real Data
+
+## Model 4: Feature Loss + Classif Loss + change in Leaky Relu Last layer 
 
 
 <audio controls>
-  <source src="samples/sample_source_5.mp3" type="audio/mp3">
+  <source src="samples/sample_source_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
