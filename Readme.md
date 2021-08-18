@@ -1,7 +1,28 @@
 # Visualization and Listening
 
-### Model 1 : Only MSE Generation teacher, Generation student 
+## Model 1 : Only MSE Generation teacher, Generation student 
+<audio controls>
+  <source src="samples/to_rgb_nofeatures_0.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
+<audio controls>
+  <source src="no_features/to_rgb_nofeatures_1.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+![ggg ](no_features/no_feature_student.png "Loudness Source et Loudness Reconstruite du sample 5")
+
+<audio controls>
+  <source src="no_features/teacher0.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="no_features/teacher0.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+![ggg ](no_features/no_feature_teacher.png "Loudness Source et Loudness Reconstruite du sample 5")
 
 ## Model 2 : Add feature loss
 
