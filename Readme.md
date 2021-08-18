@@ -121,7 +121,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-![ggg ](features_classif_real_leaky_realu/student .png "Student generations")
+![ggg ](features_classif_real_leaky_realu/student.png "Student generations")
 ### Teacher
 <audio controls>
   <source src="features_classif_real_leaky_realu/teacher0.mp3" type="audio/mp3">
