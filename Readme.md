@@ -1,8 +1,9 @@
 # Visualization and Listening
 
 ## Model 1 : Only MSE Generation teacher, Generation student 
+
 <audio controls>
-  <source src="samples/to_rgb_nofeatures_0.mp3" type="audio/mp3">
+  <source src="no_features/to_rgb_nofeatures_0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
