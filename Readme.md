@@ -25,6 +25,8 @@ Your browser does not support the audio element.
 </audio>
 ![ggg ](no_features/no_feature_teacher.png "Teacher generations ")
 
+
+
 ## Model 2 : Add feature loss
 
 <audio controls>
@@ -50,9 +52,34 @@ Your browser does not support the audio element.
 </audio>
 ![ggg ](features/amp_teacher.png "Teacher generations ")
 
+
+
 ## Model 3: Feature Loss + Classif Loss
 
 ### A. Feature Loss + Classif Loss with Fake Data
+
+<audio controls>
+  <source src="features_classif/gen2.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="features_classif/gen3.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+![ggg ](features_classif/student.png "Student generations")
+
+<audio controls>
+  <source src="features_classif/teacher2.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="features_classif/teacher3.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+![ggg ](features_classif/teacher.png "Teacher generations ")
 
 ### B. Feature Loss + Classif Loss with  Real Data
 
