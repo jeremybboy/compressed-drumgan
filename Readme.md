@@ -110,13 +110,26 @@ Your browser does not support the audio element.
 
 ## Model 4: Feature Loss + Classif Loss + change in Leaky Relu Last layer 
 
-
+### Student
 <audio controls>
-  <source src="samples/sample_source_5.wav" type="audio/wav">
+  <source src="features_classif_real_leaky_realu/student0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
-### Soundwave and Spectrogramme of sample n°5
-![ggg ](Images/soundwave_5.png "Loudness Source et Loudness Reconstruite du sample 5")
+<audio controls>
+  <source src="features_classif_real_leaky_realu/student1.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
+![ggg ](features_classif_real_leaky_realu/student.png "Student generations")
+### Teacher
+<audio controls>
+  <source src="features_classif_real_leaky_realu/teacher0.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
 
+<audio controls>
+  <source src="features_classif_real_leaky_realu/teacher1.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+![ggg ](features_classif_real_leaky_realu/teacher.png "Teacher generations ")
