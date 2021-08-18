@@ -1,7 +1,7 @@
 # Visualization and Listening
 
 ## Model 1 : Only MSE Generation teacher, Generation student 
-
+### Student
 <audio controls>
   <source src="no_features/to_rgb_nofeatures_0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
@@ -14,6 +14,7 @@ Your browser does not support the audio element.
 
 ![ggg ](no_features/no_feature_student.png "Student generations")
 
+### Teacher
 <audio controls>
   <source src="no_features/teacher0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
@@ -28,7 +29,7 @@ Your browser does not support the audio element.
 
 
 ## Model 2 : Add feature loss
-
+### Student
 <audio controls>
   <source src="features/gen0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
@@ -40,7 +41,7 @@ Your browser does not support the audio element.
 </audio>
 
 ![ggg ](features/amp.png "Student generations")
-
+### Teacher
 <audio controls>
   <source src="features/gen0_teacher.mp3" type="audio/mp3">
 Your browser does not support the audio element.
@@ -57,7 +58,7 @@ Your browser does not support the audio element.
 ## Model 3: Feature Loss + Classif Loss
 
 ### A. Feature Loss + Classif Loss with Fake Data
-
+### Student
 <audio controls>
   <source src="features_classif/gen2.mp3" type="audio/mp3">
 Your browser does not support the audio element.
@@ -69,7 +70,7 @@ Your browser does not support the audio element.
 </audio>
 
 ![ggg ](features_classif/student.png "Student generations")
-
+### Teacher
 <audio controls>
   <source src="features_classif/teacher2.mp3" type="audio/mp3">
 Your browser does not support the audio element.
