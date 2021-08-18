@@ -58,7 +58,7 @@ Your browser does not support the audio element.
 ## Model 3: Feature Loss + Classif Loss
 
 ### A. Feature Loss + Classif Loss with Fake Data
-### Student
+#### Student
 <audio controls>
   <source src="features_classif/gen2.mp3" type="audio/mp3">
 Your browser does not support the audio element.
@@ -70,7 +70,7 @@ Your browser does not support the audio element.
 </audio>
 
 ![ggg ](features_classif/student.png "Student generations")
-### Teacher
+#### Teacher
 <audio controls>
   <source src="features_classif/teacher2.mp3" type="audio/mp3">
 Your browser does not support the audio element.
@@ -83,6 +83,30 @@ Your browser does not support the audio element.
 ![ggg ](features_classif/teacher.png "Teacher generations ")
 
 ### B. Feature Loss + Classif Loss with  Real Data
+
+#### Student
+<audio controls>
+  <source src="features_classif_real_data/audio2.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="features_classif_real_data/audio3.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+![ggg ](features_classif_real_data/student.png "Student generations")
+#### Teacher
+<audio controls>
+  <source src="features_classif_real_data/audio2_teacher.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="features_classif_real_data/audio3_teacher.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+![ggg ](features_classif_real_data/teacher.png "Teacher generations ")
 
 ## Model 4: Feature Loss + Classif Loss + change in Leaky Relu Last layer 
 
