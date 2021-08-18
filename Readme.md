@@ -11,7 +11,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-![ggg ](no_features/no_feature_student.png "Loudness Source et Loudness Reconstruite du sample 5")
+![ggg ](no_features/no_feature_student.png "Student generations")
 
 <audio controls>
   <source src="no_features/teacher0.mp3" type="audio/mp3">
@@ -22,7 +22,7 @@ Your browser does not support the audio element.
   <source src="no_features/teacher0.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
-![ggg ](no_features/no_feature_teacher.png "Loudness Source et Loudness Reconstruite du sample 5")
+![ggg ](no_features/no_feature_teacher.png "Teacher generations ")
 
 ## Model 2 : Add feature loss
 
