@@ -1,4 +1,5 @@
 # Visualization and Listening
+## To generate samples, we take a latent vector of size 131 and pass it to the teacher and the student. For each model, we take 2 same latent spaces and obtain 2 generations. The student generation should sound like his corresponding teacher generation, as it is the same latent vector used. 
 
 ## Model 1 : Only MSE Generation teacher, Generation student 
 
