@@ -1,6 +1,6 @@
 # Compressing Neural Networks Project
 
-The complete research thesis can be read here             
+The complete research thesis can be read if you click on the following pdf :          
 <a href="https://jeremybboy.github.io/documents/UZAN_Jeremy_Memoire_Stage_version_finale.pdf" target="_blank"><img src="https://eita-nakamura.github.io/images/pdf.png" height="40px" alt="Report"></a> 
 
 
