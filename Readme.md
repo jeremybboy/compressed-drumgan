@@ -1,7 +1,7 @@
 # Compressing Neural Networks Project
 
 The complete research thesis can be read here             
-<a href="https://jeremybboy.github.io/documents/UZAN_Jeremy_Memoire_Stage_version_finale.pdf" target="_blank"><img src="https://eita-nakamura.github.io/images/pdf.png" height="18px" alt="Report"></a> 
+<a href="https://jeremybboy.github.io/documents/UZAN_Jeremy_Memoire_Stage_version_finale.pdf" target="_blank"><img src="https://eita-nakamura.github.io/images/pdf.png" height="40px" alt="Report"></a> 
 
 
 ## Visualization and Listening
