@@ -1,4 +1,10 @@
-# Visualization and Listening
+# Compressing Neural Networks Project
+
+The complete research thesis can be read here             
+<a href="https://jeremybboy.github.io/documents/UZAN_Jeremy_Memoire_Stage_version_finale.pdf" target="_blank"><img src="https://eita-nakamura.github.io/images/pdf.png" height="18px" alt="Report"></a> 
+
+
+## Visualization and Listening
 ## To generate samples, we take a latent vector of size 131 and pass it to the teacher and the student. For each model, we take 2 same latent spaces and obtain 2 generations. The student generation should sound like his corresponding teacher generation, as it is the same latent vector used. 
 
 ## Model 1 : Only MSE Generation teacher, Generation student 
